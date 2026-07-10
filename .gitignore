@@ -1,0 +1,21 @@
+# ---- PRIVATE DATA: never commit the group chat or anything derived from it ----
+_chat.txt
+data/
+out/
+*.pt
+*.txt
+!requirements.txt
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
